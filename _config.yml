@@ -91,7 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "鲲KUN", href: "soft.moe" },
-    { title: "yurzhang", href: "yurzhang.com" },
-    { title: "Funeral Rain", href: "toya.moe" }，
+    { title: "鲲KUN", href: "https://soft.moe/" },
+    { title: "世雨", href: "https://toya.moe/" },
   ]
