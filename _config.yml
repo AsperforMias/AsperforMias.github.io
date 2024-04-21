@@ -6,15 +6,15 @@ email: asperformias@gmail.com
 description: "这里是 @Mias 的个人博客，一起投身与萌萌大业！ | 米娜最可爱！"
 keyword: "Mias, AsperforMias, Mias Blog, 博客, 个人网站, 互联网, Web Security, Kali Linux, 网安, 渗透"
 url: "mias.moe" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-#weibo_username: huxpro
-#zhihu_username: huxpro
+#weibo_username: AsperforMias
+#zhihu_username: AsperforMias
 github_username: AsperforMias
 twitter_username: AsperforMias
 #facebook_username:  huxpro
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-65623216-7" # Format: UA-xxxxxx-xx
-ga_domain: mias.moe
+#ga_track_id: "UA-65623216-7" # Format: UA-xxxxxx-xx
+#ga_domain: mias.moe
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
