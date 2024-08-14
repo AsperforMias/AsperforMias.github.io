@@ -3,7 +3,7 @@ title: AsperforMias's Blog
 SEOTitle: AsperforMias的博客 | Mias Blog
 header-img: img/home-bg.jpg
 email: asperformias@gmail.com
-description: "这里是 @Mias 的个人博客，一起投身与萌萌大业！ | 米娜最可爱！"
+description: "这里是 @Mias 的个人博客，一个尝试写博客的废物大学牲 | fufu最可爱！"
 keyword: "Mias, AsperforMias, Mias Blog, 博客, 个人网站, 互联网, Web Security, Kali Linux, 网安, 渗透"
 url: "https://mias.moe" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -74,7 +74,7 @@ ga_domain: mias.moe
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "我不是萝莉控！"
+sidebar-about-description: "Hopefully,the life will make my hert warm"
 sidebar-avatar: https://github.com/AsperforMias.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
